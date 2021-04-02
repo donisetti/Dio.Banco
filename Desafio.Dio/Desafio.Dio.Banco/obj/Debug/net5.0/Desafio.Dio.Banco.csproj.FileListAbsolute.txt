@@ -1,0 +1,16 @@
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\bin\Debug\net5.0\Desafio.Dio.Banco.exe
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\bin\Debug\net5.0\Desafio.Dio.Banco.deps.json
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\bin\Debug\net5.0\Desafio.Dio.Banco.runtimeconfig.json
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\bin\Debug\net5.0\Desafio.Dio.Banco.runtimeconfig.dev.json
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\bin\Debug\net5.0\Desafio.Dio.Banco.dll
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\bin\Debug\net5.0\ref\Desafio.Dio.Banco.dll
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\bin\Debug\net5.0\Desafio.Dio.Banco.pdb
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\obj\Debug\net5.0\Desafio.Dio.Banco.csprojAssemblyReference.cache
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\obj\Debug\net5.0\Desafio.Dio.Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\obj\Debug\net5.0\Desafio.Dio.Banco.AssemblyInfoInputs.cache
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\obj\Debug\net5.0\Desafio.Dio.Banco.AssemblyInfo.cs
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\obj\Debug\net5.0\Desafio.Dio.Banco.csproj.CoreCompileInputs.cache
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\obj\Debug\net5.0\Desafio.Dio.Banco.dll
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\obj\Debug\net5.0\ref\Desafio.Dio.Banco.dll
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\obj\Debug\net5.0\Desafio.Dio.Banco.pdb
+C:\dio\banco\Desafio.Dio\Desafio.Dio.Banco\obj\Debug\net5.0\Desafio.Dio.Banco.genruntimeconfig.cache
