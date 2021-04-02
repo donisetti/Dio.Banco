@@ -85,6 +85,7 @@ namespace Desafio.Dio.Banco
 
         private static void InserirConta()
         {
+			Console.Clear();
 			Console.WriteLine("Inserir nova conta");
 
 			Console.Write("Digite 1 para Conta Fisica ou 2 para Juridica: ");
@@ -105,10 +106,13 @@ namespace Desafio.Dio.Banco
 										nome: entradaNome);
 
 			listContas.Add(novaConta);
+
+			Console.ReadLine();
 		}
 
         private static void ListarContas()
         {
+			Console.Clear();
 			Console.WriteLine("Listar contas");
 
 			if (listContas.Count == 0)
@@ -123,10 +127,13 @@ namespace Desafio.Dio.Banco
 				Console.Write("#{0} - ", i);
 				Console.WriteLine(conta);
 			}
+
+			Console.ReadLine();
 		}
 
         private static string ObterOpcaoUsuario()
         {
+			Console.Clear();
 			Console.WriteLine();
 			Console.WriteLine("DIO Bank a seu dispor!!!");
 			Console.WriteLine("Informe a opção desejada:");
